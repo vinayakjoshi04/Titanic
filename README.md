@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0%2B-orange.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A machine learning project that predicts passenger survival on the Titanic using various classification algorithms. This project demonstrates comprehensive data preprocessing, feature engineering, and model comparison techniques.
 
