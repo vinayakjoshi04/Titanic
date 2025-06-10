@@ -154,7 +154,7 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 **Vinayak Joshi**
 - GitHub: [@Vinayak Joshi](https://github.com/vinayakjoshi04)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
+- LinkedIn: [Vinayak Joshi](https://www.linkedin.com/in/vinayak-joshi-99521528b/)
 
 ## 🙏 Acknowledgments
 
